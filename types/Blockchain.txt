@@ -1,0 +1,4 @@
+PoS(Proof of Stake)型のBlockchainです。
+
+PoW -> PoS -> PoI
+PoA

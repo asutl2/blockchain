@@ -1,0 +1,6 @@
+PoS(Proof of Stake)型のBlockchainです。
+
+// deno run --allow-read --allow-write main.ts で実行できます。
+
+PoW -> PoS -> PoI
+PoA
